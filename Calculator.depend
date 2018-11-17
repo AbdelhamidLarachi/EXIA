@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542479860 source:/Users/nginx-iwnl/Desktop/Calculator/main.c
+	<stdio.h>
+	<stdlib.h>
+
